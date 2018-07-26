@@ -50,7 +50,7 @@
                   question : "What is the capital of United states ",                           // 0 location of question
                   answers : {
                     a: "Washington, D.C",
-                    b: "San Freancisco",
+                    b: "san francisco",
                     c: "New york city",
                     d: "chicago",
                 },
